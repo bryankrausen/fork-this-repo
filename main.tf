@@ -8,3 +8,4 @@ resource "aws_s3_bucket" "example" {
 }
 
 # Comment
+Some changes in the actual code file
